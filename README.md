@@ -21,7 +21,7 @@ Alongside the TOP requirements, the developer has placed additional constraints 
 4. The top down layout of the recipe pages must follow the order of step 3. :ballot_box_with_check:
 
 ### Self-Imposed Hard Rules:
-1. No css :ballot_box_with_check:
+1. No css :negative_squared_cross_mark: (Developed at 200% zoom - not noticed until final push. Added zoom property of 200% to html tag)
 2. No js :ballot_box_with_check:
 
 ### Self-Imposed Soft Rules:
